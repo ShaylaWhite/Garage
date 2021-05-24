@@ -3,9 +3,11 @@ package com.qa.garage;
 //Base Class Vehicle 
 public class Vehicle {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	private double weight;
+	private double fuel;
+	private int year;
+	private String brand;
+	
+	// functions
 
 }
